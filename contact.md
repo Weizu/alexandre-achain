@@ -14,13 +14,12 @@ form {
   width: 100%;
   margin: 0 auto;
   padding: 20px;
-  border: 1px solid #ddd;
-  border-radius: 5px;
 }
 
 fieldset {
   border: none;
 }
+
 /* Style des labels */
 label {
   display: block;
