@@ -42,5 +42,5 @@ Mon parcours dans le monde associatif, notamment à APF France Handicap et la Li
 
 Toujours curieux et à l'affût des nouvelles technologies, je m'intéresse particulièrement aux innovations comme l'écriture transmédia, la réalité augmentée, les podcasts, les jeux ubiquitaires, les web-séries, et les nouveaux supports de jeux (e-pawn, lunettes Occulus Rift). J’anticipe les transformations des médias pour les intégrer dans mes créations et vos projets.
 
-### Objectif Professionnel
+## Objectif Professionnel
 Je recherche un poste ou une mission de **Développeur Backend PHP** où je pourrais utiliser mes compétences en programmation PHP et mon expertise en qualité web et accessibilité. Je suis ouvert à tout type de projet multimédia et désireux d’explorer les technologies de demain pour offrir des solutions innovantes et inclusives. 
