@@ -2,6 +2,10 @@
     --couleur-primaire : #008A8A;
 }
 
+h2 {
+  color : --couleur-primaire;
+}
+
 /* Style de base du formulaire */
 form {
   display: flex;
