@@ -1,5 +1,5 @@
 ---
-title: "Alexandre Achain - Qui suis-je ?"
+title: "Alexandre Achain"
 order: 0
 in_menu: true
 ---
