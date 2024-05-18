@@ -10,7 +10,7 @@ Ou via le formulaire ci-dessous :
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Nom complet</label>
     <input type="text" name="name" id="full-name" placeholder="Prénom et Nom de Famille" required="true">
-    <label for="email-address">Addresse Email</label>
+    <label for="email-address">Adresse Email</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="true">
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder="Ajouter votre message ici !" required="true"></textarea>
