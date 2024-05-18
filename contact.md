@@ -18,6 +18,9 @@ form {
   border-radius: 5px;
 }
 
+fieldset {
+  border: none;
+}
 /* Style des labels */
 label {
   display: block;
