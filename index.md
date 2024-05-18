@@ -3,14 +3,14 @@ title: "Alexandre Achain - Qui suis-je ?"
 order: 0
 in_menu: true
 ---
-## Alexandre Achain
+# Alexandre Achain
 
 **Alexandre Achain**  
 **Développeur Web Full-Stack**  
 **Consultant et Formateur en Développement Web**  
 **Bac+3, 9 ans d’expérience**  
 
-### Domaines d'expertise
+## Domaines d'expertise
 - Réalisation du Cahier des charges / Chiffrage
 - Développement Web
 - Mise en recette
@@ -18,15 +18,15 @@ in_menu: true
 - Numérique Responsable
 - Programmation – Développement Web
 
-### Profil Professionnel
+## Profil Professionnel
 Je suis un développeur web de formation avec une spécialisation dans la mobilité et une passion pour le game design. Avec 9 ans d'expérience dans le développement web, je suis actuellement freelance depuis 5 ans, travaillant principalement dans les domaines des médias, du tourisme, et de la communication.
 
-### Compétences principales
+## Compétences principales
 - Environnement PHP
 - Qualité Web
 - Accessibilité
 
-### Passions
+## Passions
 - Gaming
 - Aventure et Voyage
 - Création de jeux
@@ -35,7 +35,7 @@ Je suis un développeur web de formation avec une spécialisation dans la mobili
 - Jeux de Société
 - Cinéma
 
-### Expérience et Approche
+## Expérience et Approche
 En tant que développeur web et consultant en qualité et accessibilité numérique, je mets un point d'honneur à intégrer des questions éthiques comme l'inclusion, l'éco-conception et la vie privée dans tous mes projets. Mon intérêt pour l'humain et ma formation en accessibilité numérique m'amènent à considérer l'impact social et le développement durable dans chaque initiative numérique.
 
 Mon parcours dans le monde associatif, notamment à APF France Handicap et la Ligue de l'Enseignement, m'a inculqué des valeurs d'entraide et de préservation de la nature, que j'intègre dans ma pratique professionnelle.
