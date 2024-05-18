@@ -3,7 +3,7 @@
 }
 
 h2 {
-  color : --couleur-primaire;
+  color : var(--couleur-primaire);
 }
 
 /* Style de base du formulaire */
