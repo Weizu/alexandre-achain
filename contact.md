@@ -21,6 +21,7 @@ form {
 /* Style des labels */
 label {
   display: block;
+  margin-top: 25px;
   margin-bottom: 5px;
   font-weight: bold;
 }
